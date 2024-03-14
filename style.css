@@ -1,0 +1,40 @@
+.nav-link{
+    transition: all 0.7s;
+}
+
+.nav-link:hover{
+    border-bottom: 2px solid darkmagenta;
+    
+    transition: all 0.2s;
+
+}
+.carousel-caption{
+    transition: all 0.7s;
+}
+.carousel-caption:hover{
+    transform: scale(1.02);
+}
+.card{
+    
+    transition: all 0.4s;
+
+}
+.card:hover{
+    transform: scale(1.1);
+}
+
+.bx{
+    position: absolute;
+    transform: scale(3.5);
+    
+    opacity: 0;
+    transition: all 0.7s;
+}
+.bx:hover{
+    
+   opacity: 1;
+}
+.img1:hover{
+
+    
+}
